@@ -5,3 +5,6 @@
 
  
  Creando NUEVO
+
+ya tengo un cambio ahora inserto imagen
+
